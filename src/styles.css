@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #ecfccb;
+}
+ul {
+  list-style: none;
+}
+.bookType {
+  border: 2px solid #3f6212;
+  display: inline;
+  padding: 0.5rem 1rem;
+  margin: 0.5rem;
+  border-radius: 0.6rem;
+  cursor: pointer;
+  font-weight: bold;
+  color: #334155;
+}
+.bookType:hover {
+  background-color: #bef264;
+  color: #3f6212;
+}
+horrorBook {
+  border: 2px solid red;
+}
